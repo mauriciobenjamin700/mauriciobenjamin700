@@ -14,4 +14,6 @@
     <img alingn="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alingn="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-</div>
+</div ><br>
+
+Tenho interesse em IA, Análise de dados, Engenharia de software e visão computacional além de adorar automatizar tarefas.
