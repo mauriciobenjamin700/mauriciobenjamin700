@@ -1,5 +1,5 @@
-### Olá! Eu sou o Mauricio Benjamin! 🫡
-### Minhas redes sociais 👇
+### Hello! I'm Mauricio Benjamin!
+### My social networks 👇
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauriciobenjamin70/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-benjamin-da-rocha-a99979253/ )
@@ -7,13 +7,15 @@
 
 ![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciobenjamin700&show_icons=true&theme=radical)
 
-### Técnologias do meu dia a dia
+### Technologies in my daily life
 
 <div style="display: inline_block"><br>
+    <img alingn="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img alingn="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img alingn="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alingn="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    
+
 
 </div ><br>
 
-Tenho interesse em IA, Análise de dados, Engenharia de software e visão computacional além de adorar automatizar tarefas.
+I'm interested in artificial intelligence, computer vision, IT Project Management, Science and data analysis, as well as loving automating tasks.
