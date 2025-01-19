@@ -9,5 +9,6 @@
 ## Um Pouco Sobre
 
 ![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciobenjamin700&show_icons=true&theme=radical)
+![Mauricio Technology Status]("https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciobenjamin700&layout=compact&theme=radica)
 
 [Portfolio](https://mauriciobenjamin700.github.io/portfolio-html-css-js/)
